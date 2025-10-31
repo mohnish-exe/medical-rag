@@ -39,9 +39,9 @@
    In Render dashboard, add:
 
    ```
-   SUPABASE_URL=https://rejkqxpktiynlspoyppi.supabase.co
-   SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-   COHERE_API_KEY=AA3kluBGWmXPaR0pz6dqQFag4oAQRExeZnTMjgqG
+   SUPABASE_URL=<>
+   SUPABASE_SERVICE_ROLE_KEY=<>
+   COHERE_API_KEY=<>
    ```
 
 4. **Deploy**
